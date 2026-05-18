@@ -6,6 +6,8 @@
 ## 📂 仓库结构
 ```
 study_record/
+├── .gitignore
+├── README.md
 ├── LangChain/
 │   ├── s01_langchain_llm_access.py
 │   ├── s02_langchain_streaming_output.py
@@ -39,6 +41,7 @@ study_record/
     ├── final_rag_with_chat_history.py
     ├── app_file_uploader.py
     └── app_qa.py
+    
 ```
 
 
